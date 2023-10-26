@@ -211,6 +211,12 @@ nav .navbar {
   text-align: center;
   flex-direction: column;
 }
+.second-slide .slide-icon {
+  margin-left: 20px;
+}
+.second-slide .slide-icon .icon{
+  margin-right: 20px;
+}
 .second-slide .slide-text p {
   color: white;
 }
@@ -253,7 +259,12 @@ nav .navbar {
   text-align: center;
   flex-direction: column;
 }
-
+.third-slide .slide-icon {
+  margin-left: 20px;
+}
+.third-slide .slide-icon .icon{
+  margin-right: 20px;
+}
 .third-slide h1 {
   color: white;
   font-size: 60px;
@@ -282,6 +293,13 @@ nav .navbar {
   justify-content: center;
   text-align: center;
   flex-direction: column;
+}
+.fourth-slide .slide-icon {
+  margin-left: 20px;
+}
+
+.fourth-slide .slide-icon .icon{
+  margin-right: 20px;
 }
 .fourth-slide .slide-text p {
   color: white;
